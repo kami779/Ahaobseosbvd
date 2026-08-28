@@ -1,9 +1,3 @@
--- SISTEMA DE TESTE - ROBLOX STUDIO
--- Hitbox: 1-1000
--- Speed: 1-800
--- Fly: 1-200
--- Aim Assist: ON/OFF
-
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
 local UserInputService = game:GetService("UserInputService")
